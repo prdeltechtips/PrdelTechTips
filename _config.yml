@@ -27,3 +27,6 @@ markdown: kramdown
 gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
+# disqus support
+disqus: prdeltechtips.disqus.com
+comments: true
