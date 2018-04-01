@@ -1,5 +1,11 @@
 ---
-published: false
+layout: post
+title:  "Obsah Blogu"
+date:   2018-04-01 23:25:00 +0800
+categories: Blog
+tags: Blog
+description: Popsán obsah blogu, co zde může čtenář očekávat atd.
+comments: true
 ---
 ## Vítejte v Prdeli!
 
