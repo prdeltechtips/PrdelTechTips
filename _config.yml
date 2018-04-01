@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Prdel Tech Tips
-description: Welcome to Prdel!
+description: Vítejte v Prdeli!
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/prdeltechtips/PrdelTechTips.github.io
@@ -18,7 +18,7 @@ date_format:
   categories: "%b-%Y"
   tag: "%b-%Y"
 # Language
-lan: "en" 
+lan: "cs" 
 
 paginate: 10
 
