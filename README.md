@@ -30,6 +30,6 @@ Jen je nutné vždy uvést původního autora a uvést, zda jste provedli nějak
 Šablona pro Github Pages - Poděkování/Credits
 ------------
 
-###Jekyll Xixia
+*Jekyll Xixia*
 
 * Get it from [github](https://github.com/zxixia/jekyll-xixia).
