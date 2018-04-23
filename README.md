@@ -11,11 +11,11 @@ Abych odlišil soubory pro Github Pages a pro naše další projekty, je v koře
 
 Odkazy
 ------
-[Prdel Tech Tips](https://tech.prdel.cloud)
-[Prdel Tech Tips Github Pages](https://prdeltechtips.github.io)
-[Prdel Tech Tips Github Repository](https://github.com/prdeltechtips/PrdelTechTips.github.io)
-[Prdel Tech Tips YouTube](https://www.youtube.com/channel/UCHhdElAzEzmZj_uv-buAjug)
-[Prdel Tech Tips Facebook](https://fb.me/PrdelTechTips)
+[Prdel Tech Tips](https://tech.prdel.cloud)  
+[Prdel Tech Tips Github Pages](https://prdeltechtips.github.io)  
+[Prdel Tech Tips Github Repository](https://github.com/prdeltechtips/PrdelTechTips.github.io)  
+[Prdel Tech Tips YouTube](https://www.youtube.com/channel/UCHhdElAzEzmZj_uv-buAjug)  
+[Prdel Tech Tips Facebook](https://fb.me/PrdelTechTips)  
 [Prdel Tech Tips Twitter](https://twitter.com/prdeltechtips)
 
 Licence
@@ -28,9 +28,8 @@ Jen je nutné vždy uvést původního autora a uvést, zda jste provedli nějak
 
 
 Šablona pro Github Pages - Poděkování/Credits
-============
-
-Jekyll Xixia
 ------------
+
+###Jekyll Xixia
 
 * Get it from [github](https://github.com/zxixia/jekyll-xixia).
