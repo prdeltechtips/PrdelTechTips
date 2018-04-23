@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tipy na příspěvky"
-date:   2018-04-023 23:15:00 +0800
+date:   2018-04-23 23:15:00 +0800
 categories: Blog
 tags: Blog
 description: Žádost o radu a podílení se na diskuzi
