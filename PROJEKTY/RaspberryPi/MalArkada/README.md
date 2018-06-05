@@ -33,6 +33,54 @@ https://retropie.org.uk/forum/topic/5220/arcade-buttons-how-many-layout/17
 fba dat file
 https://github.com/RetroPie/RetroPie-Setup/wiki/FinalBurn-Alpha
 
+joystick emulate mouse
+https://github.com/guancio/your-input
+
+### Ports
+
+Seznam pouze her, vynechány IDE
+Cannonball - port Outrun
+CaveStory 
+ - je nutné nainstlovat experimental lr-nxengine
+Commander Keen
+ - zde se nainstalují první 3 hry, zbytek je třeba stáhnout a nahrát do /home/pi/RetroPie/roms/ports/cgenius/games/gamename/
+Descent
+ - značně náročné jak na počet ovládacích prvků tak na počítač
+Dinothawr
+ - Puzzle hra
+Doom
+ - v základu DOOM, dále je možné stáhnout DOOM2, final doom a mody, např. batman doom
+Duke Nukem 3D
+GameMaker Games
+ - They Need To Be Fed (možná vyžaduje myš)
+ - Super Crate Box
+ - Maldita Castilla
+Lincity
+ - klon Simcity
+Marathon
+Minecraft
+ - vyžaduje myš
+OpenTTD
+ - klon Transport Tycoon
+OpenTyrian
+Quake
+Quake III Arena
+SDLPoP - Prince of Persia
+Stratagus
+ - umožňuje hrát klony strategií
+ - Starcraft
+ - Warcraft 2
+Super Mario War - 4 player řežba
+SuperTux
+The Ur Quan Masters - experimental
+Wolfenstein 3D - pouze shareware, je třeba dodat plnou hru do /home/pi//RetroPie/roms/ports/wolf3d
+
+Emulators
+http://www.atarimania.com/rom_collection_archive_atari_2600_roms.html
+https://www.emuparadise.me/Complete_ROM_Sets_(Full_Sets_in_One_File)_ROMs/Atari_7800_(Good7800_v2.04)/96285
+
+
+
 ## Hardware
 
 Raspberry pi 3 B+
