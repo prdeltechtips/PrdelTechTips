@@ -45,5 +45,3 @@ Zdrojové soubory jak k tomuto webu, tak i k většině mých projektů pak najd
 [github-repo]: https://github.com/prdeltechtips/PrdelTechTips.github.io
 [blog-categories]: https://prdeltechtips.github.io/PrdelTechTips.github.io/categories.html
 [blog-tags]: https://prdeltechtips.github.io/PrdelTechTips.github.io/tags.html
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
