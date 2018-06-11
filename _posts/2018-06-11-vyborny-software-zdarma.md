@@ -13,16 +13,18 @@ comments: true
 
 ### Obsah tohoto článku:
 
-1. [Open Broadcaster Software]
-2. [GIMP]
-3. [7-Zip]
-4. [DaVinci Resolve]
-5. [Krita]
-6. [VLC]
-7. [Notepad++]
-8. [Visual Studio Code]
-9. [LaTex]
-10. [Discord]
+1. [Open Broadcaster Software](open-broadcaster-software)
+2. [GIMP](gimp)
+3. [7-Zip](7-zip)
+4. [DaVinci Resolve](davinci-resolve)
+5. [Krita](kirita)
+6. [VLC](vlc)
+7. [Notepad++](notepad++)
+8. [Visual Studio Code](visual-studio-code)
+9. [LaTex](latex)
+10. [Discord](discord)
+
+![alt text][img1]
 
 Těchto článků je jistě na internetu plná prdel, ale i tak jsem se nechal inspirovat dotazem na redditu, na základě kterého jsem se rozhodl vypracovat seznam softwaru, který používám. Původní dotaz je k nalezení [na tomto odkazu][1].
 
@@ -166,3 +168,6 @@ Kuba
 [15]: https://www.texstudio.org/
 [16]: https://discordapp.com/
 [17]: https://discord.gg/MsBcQbX
+
+[img1]: /assets/images/2018-06-11-vyborny-software-zdarma/Start-Vsechny-Programy-450x350.png "Programy zobrazené ve Startu Windows 10"
+[]
