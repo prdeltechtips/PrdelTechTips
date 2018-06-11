@@ -13,16 +13,16 @@ comments: true
 
 ### Obsah tohoto článku:
 
-1. [Open Broadcaster Software](##open-broadcaster-software)
-2. [GIMP](##gimp)
-3. [7-Zip](##7-zip)
-4. [DaVinci Resolve](##davinci-resolve)
-5. [Krita](##kirita)
-6. [VLC](##vlc)
-7. [Notepad++](##notepad++)
-8. [Visual Studio Code](##visual-studio-code)
-9. [LaTex](##latex)
-10. [Discord](##discord)
+1. [Open Broadcaster Software](#open-broadcaster-software)
+2. [GIMP](#gimp)
+3. [7-Zip](#7-zip)
+4. [DaVinci Resolve](#davinci-resolve)
+5. [Krita](#kirita)
+6. [VLC](#vlc)
+7. [Notepad++](#notepad++)
+8. [Visual Studio Code](#visual-studio-code)
+9. [LaTex](#latex)
+10. [Discord](#discord)
 
 ![alt text][img1]
 
